@@ -43,10 +43,10 @@ O desafio trata-se sobre construir um contato inteligente (bot) na plataforma Bl
 ### Chatbot e Fluxograma
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <p><img alt="Chatbot" title="#Chatbot" src="https://s3.gifyu.com/images/takbot.md.gif" width="800px"></p>
+  <p><img alt="Chatbot" title="#Chatbot" src="https://s3.gifyu.com/images/ezgif.com-gif-maker8a6dccce445cb49a.gif" width="400px"></p>
 </p>
 
-<a href="https://s3.gifyu.com/images/Take-bot.gif">layout.gif</a>
+Acesse aqui em alta resolução: <a href="https://s3.gifyu.com/images/Take-bot.gif">layout.gif</a>
 
 ---
 
