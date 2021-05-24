@@ -30,7 +30,7 @@ O desafio trata-se sobre construir um contato inteligente (bot) na plataforma Bl
 
 - [x] Fluxo conversacional do chatbot exatamente conforme solicitado.
 
-- [x] Consumir API do Github por meio de uma API intermediária própria com deploy feito em algum serviço apropriado (Eu utilizei o Heorku).
+- [x] Consumir API do Github por meio de uma API intermediária própria com deploy feito em algum serviço apropriado (Eu utilizei o Heroku).
 - [x] Link da API intermediária: https://repos-take-api.herokuapp.com/
 
 - [x] Chatbot consumir API intermediária por meio de uma requisição HTTP.
